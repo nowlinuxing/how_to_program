@@ -222,3 +222,4 @@
 * 数学文章作法 基礎編
 * リファクタリング:Rubyエディション
 * プログラマが知るべき97のこと
+* [C言語でプログラミングする際の覚書（Notes on Programming in C） - YAMAGUCHI::weblog] (http://ymotongpoo.hatenablog.com/entry/2014/10/07/080852)
