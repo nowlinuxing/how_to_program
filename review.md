@@ -173,11 +173,11 @@ VCS を使っている場合はコミットにも注意を払う。
   + [AntiPatterns - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/AntiPatterns)
   + [AntiPatterns](http://antipatterns.com/)
 * コードの臭い
-  + [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
   + [コードの臭い - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AD%E3%81%84)
+  + [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
 * [Martin Fowler's Bliki (ja)](http://bliki-ja.github.io/)
 * [あれから 10 年。まさーるさん(石井勝さん)を偲ぶ。 - t-wadaのブログ](http://t-wada.hatenablog.jp/entry/masarl-memories)
-  + [- まさーるのページ](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/)
+  + [まさーるのページ](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/)
 
 * [Railsコントリビュータへの道 · GitHub](https://gist.github.com/willnet/ca970b2033846fe3e30a8696eb39fbd5)
 * [リファクタリングの勧め：柴田 芳樹 (Yoshiki Shibata)：So-netブログ](http://yshibata.blog.so-net.ne.jp/2015-09-27)
