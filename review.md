@@ -163,3 +163,22 @@ VCS を使っている場合はコミットにも注意を払う。
 * 一次ソースで確認する
   + ググってひっかかってきた非公式ページの情報は参考にとどめる
   + がんばって英語を読む
+
+## 参考
+
+* [プログラミング原則一覧 - Strategic Choice](http://d.hatena.ne.jp/asakichy/20100203/1265158263)
+* [デザインパターン (ソフトウェア) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2))
+* アンチパターン
+  + [アンチパターン - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+  + [AntiPatterns - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/AntiPatterns)
+  + [AntiPatterns](http://antipatterns.com/)
+* コードの臭い
+  + [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
+  + [コードの臭い - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AD%E3%81%84)
+* [Martin Fowler's Bliki (ja)](http://bliki-ja.github.io/)
+* [あれから 10 年。まさーるさん(石井勝さん)を偲ぶ。 - t-wadaのブログ](http://t-wada.hatenablog.jp/entry/masarl-memories)
+  + [- まさーるのページ](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/)
+
+* [Railsコントリビュータへの道 · GitHub](https://gist.github.com/willnet/ca970b2033846fe3e30a8696eb39fbd5)
+* [リファクタリングの勧め：柴田 芳樹 (Yoshiki Shibata)：So-netブログ](http://yshibata.blog.so-net.ne.jp/2015-09-27)
+* [レビューしやすいコミット履歴でバグ削減 | Money Forward Engineers' Blog](https://moneyforward.com/engineers_blog/2015/11/30/reviewable-commit-log/)
