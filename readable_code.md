@@ -228,3 +228,4 @@
 * プログラマが知るべき97のこと
 * [C言語でプログラミングする際の覚書（Notes on Programming in C） - YAMAGUCHI::weblog] (http://ymotongpoo.hatenablog.com/entry/2014/10/07/080852)
 * [「〜性」について考える](http://twada.herokuapp.com/presentations/toruby_5th/toruby_5th.html#landing-slide)
+* [わかりやすさの技術 - やしお](http://d.hatena.ne.jp/Yashio/20160707/1467885231)
